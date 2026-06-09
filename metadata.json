@@ -1,0 +1,6 @@
+{
+  "name": "Sheffield After Dark",
+  "description": "Premium Web 3.0 nightlife platform, celebrating Sheffield's steel heritage, synth culture, and nocturnal soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
